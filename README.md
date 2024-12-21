@@ -8,7 +8,6 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://kirilovsys.web.app/)](https://kirilovsys.web.app/)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
-We are reinnovating Hungary to catch up with the west!
 
 ### 🖥 Skills
 
